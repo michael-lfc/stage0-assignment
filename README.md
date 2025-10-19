@@ -4,7 +4,12 @@
 This is my Stage 0 Backend Wizard assignment. It is a RESTful API that returns my profile information along with a dynamic cat fact fetched from an external API.
 
 ## Live Endpoint
-[https://stage0-assignment.onrender.com/me](https://stage0-assignment.onrender.com/me)
+<!-- [https://stage0-assignment.onrender.com/me](https://stage0-assignment.onrender.com/me) -->
+
+Render: https://stage0-assignment.onrender.com/me
+
+Heroku: https://my-node-app-rm-3c3fb305cb14.herokuapp.com/me
+
 
 ## Features
 - GET `/me` endpoint
